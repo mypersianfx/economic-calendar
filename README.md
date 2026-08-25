@@ -488,11 +488,11 @@ https://api.persianfx.com/api.php
 
 وب‌سایت:
 
-[PersianFX](https://persianfx.com?utm_source=chatgpt.com)
+[PersianFX](https://persianfx.com)
 
 API Endpoint:
 
-[Economic Calendar API](https://api.persianfx.com/api.php?utm_source=chatgpt.com)
+[Economic Calendar API](https://api.persianfx.com/api.php)
 
 ---
 
